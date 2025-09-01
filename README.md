@@ -31,11 +31,6 @@
   - **Legends of Speed** - coming soon
   - **Build a Boat** - coming soon
 
-</details>
-
-<details>
-  <summary>[CLICK TO VIEW] - Supported Games (Images)</summary>
-
   <div align="center">
     <img src="" width="100" alt="Blox Fruits"/>
     <img src="" width="100" alt="Muscle Legends"/>
