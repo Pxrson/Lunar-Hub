@@ -37,13 +37,13 @@
   <summary>[CLICK TO VIEW] - Supported Games (Images)</summary>
 
   <div align="center">
-    <img src="https://github.com/lunarXhvb/LunarXHub/blob/main/Images/image.png" width="100" alt="Blox Fruits"/>
-    <img src="https://github.com/lunarXhvb/LunarXHub/blob/main/Images/image%20(4).png" width="100" alt="Muscle Legends"/>
-    <img src="https://github.com/lunarXhvb/LunarXHub/blob/main/Images/image%20(1).png" width="100" alt="Murder Mystery 2"/>
-    <img src="https://github.com/lunarXhvb/LunarXHub/blob/main/Images/image%20(5).png" width="100" alt="Ninja Legends"/>
-    <img src="https://github.com/lunarXhvb/LunarXHub/blob/main/Images/image%20(6).png" width="100" alt="Legends of Speed"/>
-    <img src="https://github.com/lunarXhvb/LunarXHub/blob/main/Images/image%20(3).png" width="100" alt="Build a Boat"/>
-    <img src="https://github.com/lunarXhvb/LunarXHub/blob/main/Images/image%20(2).png" width="100" alt="Grow A Garden"/>
+    <img src="" width="100" alt="Blox Fruits"/>
+    <img src="" width="100" alt="Muscle Legends"/>
+    <img src="" width="100" alt="Murder Mystery 2"/>
+    <img src="" width="100" alt="Ninja Legends"/>
+    <img src="" width="100" alt="Legends of Speed"/>
+    <img src="" width="100" alt="Build a Boat"/>
+    <img src="" width="100" alt="Grow A Garden"/>
   </div>
 
 </details>
