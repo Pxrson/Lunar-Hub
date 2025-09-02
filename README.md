@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Lunar Hub</h1>
-  <p>(Multi-games support) - Roblox Script That FULFILLs Your Needing</p>
+  <p>(Multi-games support) - Roblox Script That FULFILLs Your Needs</p>
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865f2?style=flat&logo=discord)](https://discord.gg/4vB8hKWvGd)
 ![Status](https://img.shields.io/badge/Status-Online-00d26a?style=flat)
