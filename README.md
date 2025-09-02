@@ -13,7 +13,7 @@
   <summary>[CLICK TO VIEW] - Script / Loadstring</summary>
 
   ```lua
--- idk yet
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/Lunar-Hub/refs/heads/main/Main/Loader.luau",true))()
   ```
 
 </details>
