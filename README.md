@@ -48,32 +48,32 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/Lunar-Hub/refs
 
    **Performance**
 
-   - Loads instantly on most executors
-   - Works on mobile and PC
-   - Minimal memory usage
-   - Auto-updates when you rejoin
+   - loads instantly on most executors
+   - works on mobile and PC
+   - minimal memory usage
+   - auto-updates when you rejoin
 
    **Safety**
 
-   - No keyloggers or malicious code
-   - Community tested scripts
-   - Regular security audits
-   - Safe execution methods
+   - no keyloggers or malicious code
+   - community tested scripts
+   - regular security audits
+   - safe execution methods
 
    **Accessibility**
 
    - 20+ language translations
-   - Simple, clean UI
-   - Beginner-friendly
-   - Active community support
+   - simple, clean UI
+   - beginner-friendly
+   - active community support 
 
 </details>
 
 <details>
   <summary>[CLICK TO VIEW] - Support</summary>
 
-  Something broken? Found a bug?
-  [Join our Discord](https://discord.gg/4vB8hKWvGd) - we actually respond there.
+  something broken? found a bug?
+  [join our discord](https://discord.gg/4vB8hKWvGd) - we actually respond there.
 
   Our Team:
   **Havoc** - Owner & Main Developer  
